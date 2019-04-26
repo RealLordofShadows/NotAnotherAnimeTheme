@@ -86,3 +86,7 @@ This theme is **NOT** minimal mode compatible.
 ### Quadruple Column Server List
 
 ![NotAnotherAnimeThemeQCSL](https://i.imgur.com/EwgpmhY.jpg)
+
+### Quintuple Column Server List
+
+![NotAnotherAnimeTheme5CSL](https://i.imgur.com/MpHFcAC.png)
