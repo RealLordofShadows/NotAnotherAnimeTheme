@@ -83,10 +83,11 @@ This theme is **NOT** minimal mode compatible.
 
 ![NotAnotherAnimeThemeTCSL](https://i.imgur.com/a5sdC2C.jpg)
 
-### Quadruple Column Server List
+### Quadruple Column Server List 
+Primary Base Lines for 4 Column & 5 Column Server List by: LordofShadowsHoppou#2151 who had this atleast a month or two before it existed on NotAnotherAnimeTheme, also doesnt help that i said i was gonna upload 4 column theme and was in the middle of working on it,then soon after another person who works on NotAnotherAnimeTheme decided to upload the 4 column without adding my branch to the main theme files on github
 
 ![NotAnotherAnimeThemeQCSL](https://i.imgur.com/EwgpmhY.jpg)
 
-### Quintuple Column Server List (WIP!!! got broken)
+### Quintuple Column Server List (WIP!!! got broken) Primary Base Lines for 4 Column & 5 Column Server List by: LordofShadowsHoppou#2151
 
 ![NotAnotherAnimeTheme5CSL]()
